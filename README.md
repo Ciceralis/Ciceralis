@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ciceralis
+- 👋 Hi, I’m @Gentle_Ego
 - 👀 I’m interested in everything that's interesting
 - 🌱 I’m currently learning Deep Reinforcement Learning + Trading algorithms
 - 💞️ I’m looking to collaborate on a physics simulation
